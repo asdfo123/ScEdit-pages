@@ -20,7 +20,7 @@ If you use ScEdit in your research, please cite our paper:
 
 ```bibtex
 @article{li2024scedit,
-  title={{ScEdit}: Script-based Assessment of Knowledge Editing},
+  title={ScEdit: Script-based Assessment of Knowledge Editing},
   author={Li, Xinye and Zheng, Zunwen and Zhang, Qian and Zhuang, Dekai and Kang, Jiabao and Xu, Liyan and Liu, Qingbin and Chen, Xi and Tu, Zhiying and Chu, Dianhui and Sui, Dianbo},
   % journal={Journal Name or Conference Proceedings}, % To be updated
   % year={2024}, % Update with your paper's year
