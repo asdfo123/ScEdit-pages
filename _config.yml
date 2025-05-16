@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal # Or your preferred theme
+title: ScEdit - Script-based Assessment of Knowledge Editing
+description: A novel script-based benchmark for evaluating Knowledge Editing in LLMs.
+# logo: /assets/img/script-1-2.png # Path relative to baseurl
+
+# Crucial for project sites:
+baseurl: "/ScEdit" # This MUST match your repository name
+url: "https://asdfo123.github.io" # Your user/organization site URL
